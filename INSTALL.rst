@@ -54,7 +54,7 @@ To start a pywb with bundled sample data:
 
 1. Clone this repo
 
-2. Install with ``python setup.py install``
+2. Install with ``pip install .`` or ``python setup.py install``
 
 3. Run ``wayback`` to start the pywb wayback server with reference WSGI implementation.
 
